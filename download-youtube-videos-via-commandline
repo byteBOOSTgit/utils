@@ -1,0 +1,9 @@
+Quick commands to download YouTube videos via the command line.
+
+First, install yt-dlp:
+
+pip install yt-dlp
+
+Then run the following simple command to download a YouTube video in mp4 format:
+
+yt-dlp --format mp4 'https://www.youtube.com/watch?v=<tag>'
